@@ -55,7 +55,7 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 
 ## Screenshots:
-
+![](./public/images/Screenshot-1.png)
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
