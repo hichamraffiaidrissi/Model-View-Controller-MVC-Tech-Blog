@@ -52,11 +52,12 @@ WHEN I am idle on the site for more than a set time
 THEN I am able to view posts and comments but I am prompted to log in again before I can add, update, or delete posts
 
 ## Deployed Application Link:
-[Deployed Application Link:] 
+[Deployed Application Link:] https://model-viewcontroller.herokuapp.com/ 
 
 
 ## Screenshots:
 ![](./public/images/Screenshot-1.png)
+![](./public/images/Screenshot-2.png)
 ## License & Copyright ©
   
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [Open Source Initiative Link](https://opensource.org/licenses/MIT)
